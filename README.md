@@ -1,5 +1,5 @@
-# bst_351
-It will contain all "BST 351 Elements of Reliability &amp; Survival Analysis" R files as well as some helper files. SEM 6, 2020
+# bst_356_prac
+It will contain all "BST 356 PRACTICAL" R files as well as some helper files. SEM 6, 2020
 
 I had to  
 $ git push -f origin master  
