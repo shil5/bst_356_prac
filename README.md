@@ -2,7 +2,7 @@
 It will contain all "BST 351 Elements of Reliability &amp; Survival Analysis" R files as well as some helper files. SEM 6, 2020
 
 I had to 
-> $ git push -f origin master  
+$ git push -f origin master  
 ...because the command line showed an error: 
 $ git push -u origin master
 To https://github.com/shil5/bst_351.git
@@ -15,7 +15,7 @@ hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 ...I tried doing:
 $ git remote set-url origin "https://github.com/shil5/bst_351.git"  
 ...and:
-> $ git pull origin master
+$ git pull origin master
 From https://github.com/shil5/bst_351
  * branch            master     -> FETCH_HEAD
  * [new branch]      master     -> origin/master
